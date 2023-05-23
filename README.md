@@ -7,7 +7,7 @@
 
  - Objective 
  - Data Understanding
- - Dataset Descriprition
+ - Dataset Description
  - Exploratory Data Analysis
  - Data Visualization
  - Conclusion
@@ -26,7 +26,7 @@ Domain: The dataset appears to be related to sales or business development, spec
  In first step we have consolidate all the data that client have provided us in 3 different table format. you can refer the csv file provided in this Repository as  Sales Performance analysis.csv and Cleaned_consolidated_Tables.csv
 
  
-##  Dataset Descriprition
+##  Dataset Description
 - Date: Represents the date when a particular event or interaction occurred, such as a meeting or review.
 
 - Primary Producer: Refers to the primary producer or salesperson responsible for handling the opportunity.
@@ -63,7 +63,7 @@ Domain: The dataset appears to be related to sales or business development, spec
 ### Annual Revenue by Year
 ![Annual Revenue by Year](https://github.com/chetana-vasave3/Sales-Performance-Analysis/blob/main/Screenshots/Annual%20revenue.png?raw=true)
 
-- So, here we can get insight like year 2017 has maximun avarage anual Revenue and year 2019 has maximum anual Revenue.
+- So, here we can get insight like year 2017 has maximum average annual Revenue and year 2019 has maximum annual Revenue
 
 - we can group the accounts by their primary producer and analyze which producer brings in the most revenue or which producer has the most accounts.
 
@@ -88,7 +88,7 @@ The difference between the expected decision year and the year of account genera
 
 
 
-Now, we can perform Annova test between primary producer and anual revenue to test if there is significant difference in the mean annual revenue generated across different primary producers. this can help to identify which primary producers are most profitable.
+Now, we can perform Annova test between primary producer and annual revenue to test if there is significant difference in the mean annual revenue generated across different primary producers. this can help to identify which primary producers are most profitable.
 
 ### Most Profitable primary producer
 
